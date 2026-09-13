@@ -8,16 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=soumitra-32&label=Profile%20Views&color=0e75b6&style=flat" alt="soumitra-32" />
 </p>
 
-<!-- Animated Header -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=0E75B6&center=true&vCenter=true&width=800&lines=🐻+Running+through+the+world+of+Code...;💻+Computer+Science+Student;🤖+Exploring+AI+%26+Machine+Learning;🚀+Building+Real-World+Software;⚡+Always+Learning%2C+Always+Building" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Developer.gif" width="700">
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -75,15 +65,7 @@
   <img src="https://streak-stats.demolab.com?user=soumitra-32&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
 
-<h3 align="center">🐍 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/soumitra-32/soumitra-32/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
 
 <p align="center">
   <i>Code • Learn • Build • Repeat</i>
