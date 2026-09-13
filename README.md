@@ -1,15 +1,90 @@
 <h1 align="center">Hi 👋, I'm Soumitra</h1>
-<h3 align="center">An undergraduate student pursuing a BSc degree in Computer Science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumitra-32&label=Profile%20views&color=0e75b6&style=flat" alt="soumitra-32" /> </p>
+<h3 align="center">
+  An undergraduate student pursuing a BSc degree in Computer Science.
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumitra-32" alt="soumitra-32" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soumitra-32&label=Profile%20Views&color=0e75b6&style=flat" alt="soumitra-32" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<!-- Animated Header -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumitra-32&show_icons=true&locale=en" alt="soumitra-32" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=0E75B6&center=true&vCenter=true&width=800&lines=🐻+Running+through+the+world+of+Code...;💻+Computer+Science+Student;🤖+Exploring+AI+%26+Machine+Learning;🚀+Building+Real-World+Software;⚡+Always+Learning%2C+Always+Building" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Developer.gif" width="700">
+</p>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<h4 align="left">💻 Programming Languages</h4>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript,javascript" />
+</p>
+
+<h4 align="left">🌐 Frontend</h4>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,typescript" />
+</p>
+
+<h4 align="left">⚙️ Backend</h4>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" />
+</p>
+
+<h4 align="left">🤖 AI / Machine Learning</h4>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="48" height="48"/>
+</p>
+
+<h4 align="left">🗄️ Database</h4>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+<h4 align="left">🔧 Tools & Platforms</h4>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,arduino" />
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Statistics:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumitra-32&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitra-32&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=soumitra-32&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumitra-32/soumitra-32/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Code • Learn • Build • Repeat</i>
+</p>
