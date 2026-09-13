@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./s1.gif" width="900" alt="Soumitra CSE Journey">
+</p>
+
 <h1 align="center">Hi 👋, I'm Soumitra</h1>
 
 <h3 align="center">
@@ -7,8 +11,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soumitra-32&label=Profile%20Views&color=0e75b6&style=flat" alt="soumitra-32" />
 </p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -64,8 +66,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=soumitra-32&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-
 
 <p align="center">
   <i>Code • Learn • Build • Repeat</i>
